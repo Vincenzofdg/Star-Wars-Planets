@@ -11,9 +11,10 @@
 
 ## Knowledges:
 
- - Component's life cicle;
- - React Router;
- - Fetch (Itunes API).
+ - Context API;
+ - React Hooks;
+ - useState and useEffect;
+ - Custom Hooks.
 
 ## Preview:
 

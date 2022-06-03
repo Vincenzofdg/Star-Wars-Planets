@@ -1,5 +1,4 @@
 ## How I created and deployed this app
-
 1. npx create-react-app star-wars-planets
 2. npm install gh-pages --save-dev
 3. npm install react-router-dom --save
@@ -9,11 +8,14 @@
 	- "deploy": "gh-pages -d build",
 
 ## Knowledges:
-
  - Context API;
  - React Hooks;
  - useState and useEffect;
  - Custom Hooks.
+
+**Framework?**
+- [ ] Yes
+- [x] No
 
 ## Preview:
 
